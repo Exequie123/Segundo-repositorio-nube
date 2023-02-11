@@ -1,2 +1,1 @@
-# Segundo-repositorio-nube
-este es mi segundo repositorio
+Este es un ejercicio 
